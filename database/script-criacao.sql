@@ -1,9 +1,11 @@
+CREATE DATABASE geekbox;
+USE geekbox;
+
 CREATE TABLE usuario (
     id INT NOT NULL AUTO_INCREMENT,
     nome VARCHAR(100) NOT NULL,
     email VARCHAR(150) NOT NULL UNIQUE,
     senha VARCHAR(255) NOT NULL,
-    telefone CHAR(11) NOT NULL,
     avatar_url VARCHAR(255),
     criado_em DATETIME DEFAULT CURRENT_TIMESTAMP,
 
