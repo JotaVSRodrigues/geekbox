@@ -40,8 +40,12 @@ O projeto também está alinhado a dois **Objetivos de Desenvolvimento Sustentá
 > Projeto desenvolvido individualmente por **João Vitor da Silva Rodrigues**.
 
 <div align="center">
-  <img src="public/assets/images/landing-page/dashboard-print.png" alt="Dashboard do GeekBox" width="720">
-  <p><em>Dashboard com KPIs e gráficos de consumo</em></p>
+
+<!-- 📸 SCREENSHOT: Dashboard -->
+<!-- Substitua a linha abaixo pelo screenshot real do dashboard -->
+`[ SCREENSHOT DO DASHBOARD AQUI ]`
+
+<p><em>Dashboard com KPIs e gráficos de consumo</em></p>
 </div>
 
 ## ✨ Funcionalidades
@@ -51,7 +55,11 @@ O projeto também está alinhado a dois **Objetivos de Desenvolvimento Sustentá
 - Navegação para login e cadastro
 
 <div align="center">
-  <img src="public/assets/images/landing-page/cards-images.png" alt="Cards de itens do GeekBox" width="600">
+
+<!-- 📸 SCREENSHOT: Landing Page -->
+<!-- Substitua a linha abaixo pelo screenshot real da landing page -->
+`[ SCREENSHOT DA LANDING PAGE AQUI ]`
+
 </div>
 
 ### 🔐 Autenticação
